@@ -10,7 +10,7 @@ class Dog
   end
   
   def self.all
-    @@all.collect 
+    @@all.collect {
   end
 
   def self.clear_all
