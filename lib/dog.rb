@@ -15,7 +15,8 @@ class Dog
 
   def self.clear_all
     @@all.each do |dog|
-      
+      puts dog.name
+    end
   end
 
 
