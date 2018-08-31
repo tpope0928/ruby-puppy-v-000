@@ -13,7 +13,7 @@ class Dog
     @@all
   end
 
-  
+  def 
 
 
 
